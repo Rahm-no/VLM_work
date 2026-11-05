@@ -1,5 +1,0 @@
-vllm
-fastapi
-uvicorn
-requests
-pillow

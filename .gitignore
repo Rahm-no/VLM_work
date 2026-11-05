@@ -1,0 +1,13 @@
+# Python / test caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# SLURM job outputs and runtime logs
+*.out
+logs/
+
+# Image data (nuScenes frames; fetch locally, not redistributed)
+imgs/
+imgs6/
+results/.img_cache/
